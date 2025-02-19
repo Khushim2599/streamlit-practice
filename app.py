@@ -17,4 +17,4 @@ rating = st.slider("Rate this website (1-10):", 1, 10)
 st.write(f"You rated this site: {rating}/10")
 
 # Image Example
-st.image("https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/01/earth/21500960-1-eng-GB/Earth_pillars.jpg", caption="Beautiful Earth")
+st.image("https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg", caption="Beautiful Earth")
